@@ -36,5 +36,8 @@
     "react-router-dom": "^7.18.5",
     "recharts": "^3.10.1",
     "three": "^0.187.0"
+  },
+  "overrides": {
+    "jsdom": "^26.1.0"
   }
 }
